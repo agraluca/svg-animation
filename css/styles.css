@@ -51,7 +51,7 @@ body {
 .go-back {
   position: absolute;
   top: 4rem;
-  left: 8rem;
+  left: 5rem;
   font-size: 1.8rem;
   color: #fafafa;
   text-decoration: none;
@@ -111,6 +111,7 @@ body {
           animation: xbox-shadow 12s ease 0s forwards;
   width: 65%;
   pointer-events: none;
+  height: 30rem;
 }
 
 @-webkit-keyframes xbox-text {

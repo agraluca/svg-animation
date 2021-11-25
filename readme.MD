@@ -24,7 +24,7 @@ Utilizei o SASS para facilitar a escrita do CSS, mas poderia facilmente ser impl
 
 O conhecimento prévio do Figma foi imprencidível para fazer as animações.
 
-Link da aplicação no ar:
+Link da aplicação no ar: [SVG animation](https://svg-animation-lemon.vercel.app/)
 
 ## 🚀 Tecnologias
 

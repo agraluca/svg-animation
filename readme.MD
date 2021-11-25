@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido por questões de estudo.
 
 Nesse projeto utilizei o HTML e CSS (SASS) para fazer animações com SVG.
 
-Utilizei o SASS para facilitar a escrita do CSS, mas poderia facilmente ser implementado sem ele. Como o objetivo foi focar nas animações não utilize nenhuma estrutra rebuscada.
+Utilizei o SASS para facilitar a escrita do CSS, mas poderia facilmente ser implementado sem ele. Como o objetivo foi focar nas animações não utilizei nenhuma estrutra rebuscada.
 
 O conhecimento prévio do Figma foi imprencidível para fazer as animações.
 
